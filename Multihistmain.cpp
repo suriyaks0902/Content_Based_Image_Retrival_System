@@ -1,5 +1,5 @@
 /*
-  Suriya Kasiyalan Siva & Saikiran Juttu
+  Suriya Kasiyalan Siva
   Spring 2024
   02/08/2024
   CS 5330 Computer Vision
